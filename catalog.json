@@ -1,0 +1,15 @@
+{
+  "catalogVersion": 1,
+  "skins": [
+    {
+      "id": "indieglo-junior-vertical",
+      "name": "IndieGlo Junior Vertical",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "IndieGlo Junior Vertical skin for JukeCab.",
+      "preview": "previews/IndieGloJuniorVertical.jpg",
+      "package": "IndieGloJuniorVertical-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    }
+  ]
+}
