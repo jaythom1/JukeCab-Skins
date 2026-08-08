@@ -2,13 +2,93 @@
   "catalogVersion": 1,
   "skins": [
     {
-      "id": "indieglo-junior-vertical",
-      "name": "IndieGlo Junior Vertical",
+      "id": "example-artgrid-turntable",
+      "name": "Example Artgrid \u0026 Turntable",
       "version": "1.0.0",
       "author": "JukeCab",
-      "description": "IndieGlo Junior Vertical skin for JukeCab.",
-      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/refs/heads/main/previews/IndieGloJuniorVertical.jpg",
-      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/IndieGloJuniorVertical-1.0.0.zip",
+      "description": "JukeCab skin: Example Artgrid \u0026 Turntable.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Artgrid-Turntable.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Artgrid-Turntable-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-dual-artgrids",
+      "name": "Example Dual Artgrids",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Dual Artgrids.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Dual-Artgrids.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Dual-Artgrids-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-indieglojunior",
+      "name": "Example IndieGloJunior",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example IndieGloJunior.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-IndieGloJunior.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-IndieGloJunior-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-magic-bus",
+      "name": "Example Magic Bus",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Magic Bus.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Magic-Bus.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Magic-Bus-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-skin",
+      "name": "Example Skin",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Skin.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Skin.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Skin-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-skin-2",
+      "name": "Example Skin 2",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Skin 2.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Skin-2.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Skin-2-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-skin-3",
+      "name": "Example Skin 3",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Skin 3.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Skin-3.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Skin-3-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-skin-4",
+      "name": "Example Skin 4",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Skin 4.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Skin-4.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Skin-4-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "example-skin-5",
+      "name": "Example Skin 5",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Example Skin 5.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Example-Skin-5.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Example-Skin-5-1.0.0.zip",
       "minimumJukeCabVersion": "0.5.8.4"
     }
   ]
