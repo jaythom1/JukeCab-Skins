@@ -2,6 +2,16 @@
   "catalogVersion": 1,
   "skins": [
     {
+      "id": "choom",
+      "name": "Choom",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: Choom.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Choom.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Choom-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
       "id": "indieglojuniorvertical",
       "name": "IndieGloJuniorVertical",
       "version": "1.0.0",
