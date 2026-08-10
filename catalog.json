@@ -22,6 +22,16 @@
       "minimumJukeCabVersion": "0.5.8.4"
     },
     {
+      "id": "jc-m100",
+      "name": "JC-M100",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: JC-M100.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/JC-M100.jpg",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/JC-M100-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
       "id": "zzz-example-artgrid-turntable",
       "name": "zzz-Example Artgrid \u0026 Turntable",
       "version": "1.0.0",
