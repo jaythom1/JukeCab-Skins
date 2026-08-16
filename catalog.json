@@ -12,6 +12,16 @@
       "minimumJukeCabVersion": "0.5.8.4"
     },
     {
+      "id": "city-ii-1080",
+      "name": "City-II-1080",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: City-II-1080.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/City-II-1080.jpg",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/City-II-1080-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
       "id": "indieglojuniorvertical",
       "name": "IndieGloJuniorVertical",
       "version": "1.0.0",
@@ -29,6 +39,16 @@
       "description": "JukeCab skin: JC-M100.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/JC-M100.jpg",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/JC-M100-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "magicofchristmas",
+      "name": "MagicOfChristmas",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: MagicOfChristmas.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/MagicOfChristmas.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/MagicOfChristmas-1.0.0.zip",
       "minimumJukeCabVersion": "0.5.8.4"
     },
     {
