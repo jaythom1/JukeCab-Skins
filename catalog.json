@@ -150,6 +150,16 @@
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin-5.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-5-1.0.0.zip",
       "minimumJukeCabVersion": "0.5.8.4"
+    },
+    {
+      "id": "zzz-jukecab-feature-test",
+      "name": "zzz-JukeCab Feature Test",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: zzz-JukeCab Feature Test.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-JukeCab-Feature-Test.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-JukeCab-Feature-Test-1.0.0.zip",
+      "minimumJukeCabVersion": "0.5.8.4"
     }
   ]
 }
