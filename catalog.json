@@ -227,7 +227,7 @@
       "version": "1.0.0",
       "author": "JukeCab",
       "description": "JukeCab skin: zzz-group-visual-test.",
-      "preview": "",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-group-visual-test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-group-visual-test-1.0.0.zip",
       "minimumJukeCabVersion": "0.6.3.3"
     },
@@ -237,7 +237,7 @@
       "version": "1.0.0",
       "author": "JukeCab",
       "description": "JukeCab skin: zzz-hover-test.",
-      "preview": "",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-hover-test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-hover-test-1.0.0.zip",
       "minimumJukeCabVersion": "0.6.3.3"
     },
