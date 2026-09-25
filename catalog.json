@@ -2,6 +2,16 @@
   "catalogVersion": 1,
   "skins": [
     {
+      "id": "alittleperspective",
+      "name": "ALittlePerspective",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: ALittlePerspective.",
+      "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/ALittlePerspective.png",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/ALittlePerspective-1.0.0.zip",
+      "minimumJukeCabVersion": "0.6.3.3"
+    },
+    {
       "id": "choom",
       "name": "Choom",
       "version": "1.0.0",
@@ -9,7 +19,7 @@
       "description": "JukeCab skin: Choom.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Choom.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Choom-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "city-ii-1080",
@@ -19,7 +29,7 @@
       "description": "JukeCab skin: City-II-1080.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/City-II-1080.jpg",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/City-II-1080-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "fallout-1080",
@@ -29,7 +39,7 @@
       "description": "JukeCab skin: Fallout-1080.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Fallout-1080.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Fallout-1080-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "indieglojuniorvertical",
@@ -39,7 +49,7 @@
       "description": "JukeCab skin: IndieGloJuniorVertical.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/IndieGloJuniorVertical.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/IndieGloJuniorVertical-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "jc-m100",
@@ -49,7 +59,7 @@
       "description": "JukeCab skin: JC-M100.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/JC-M100.jpg",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/JC-M100-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "magicofchristmas",
@@ -59,7 +69,7 @@
       "description": "JukeCab skin: MagicOfChristmas.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/MagicOfChristmas.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/MagicOfChristmas-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "perspective",
@@ -69,7 +79,7 @@
       "description": "JukeCab skin: Perspective.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Perspective.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Perspective-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "quinto",
@@ -79,7 +89,7 @@
       "description": "JukeCab skin: Quinto.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/Quinto.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/Quinto-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "radioglo",
@@ -89,7 +99,7 @@
       "description": "JukeCab skin: RadioGlo.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/RadioGlo.jpg",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/RadioGlo-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-artgrid-turntable",
@@ -99,7 +109,7 @@
       "description": "JukeCab skin: zzz-Example Artgrid \u0026 Turntable.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Artgrid-Turntable.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Artgrid-Turntable-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-dual-artgrids",
@@ -109,7 +119,7 @@
       "description": "JukeCab skin: zzz-Example Dual Artgrids.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Dual-Artgrids.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Dual-Artgrids-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-indieglojunior",
@@ -119,7 +129,7 @@
       "description": "JukeCab skin: zzz-Example IndieGloJunior.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-IndieGloJunior.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-IndieGloJunior-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-magic-bus",
@@ -129,7 +139,7 @@
       "description": "JukeCab skin: zzz-Example Magic Bus.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Magic-Bus.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Magic-Bus-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-skin",
@@ -139,7 +149,7 @@
       "description": "JukeCab skin: zzz-Example Skin.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-skin-2",
@@ -149,7 +159,7 @@
       "description": "JukeCab skin: zzz-Example Skin 2.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin-2.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-2-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-skin-3",
@@ -159,7 +169,7 @@
       "description": "JukeCab skin: zzz-Example Skin 3.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin-3.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-3-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-skin-4",
@@ -169,7 +179,7 @@
       "description": "JukeCab skin: zzz-Example Skin 4.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin-4.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-4-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-example-skin-5",
@@ -179,7 +189,7 @@
       "description": "JukeCab skin: zzz-Example Skin 5.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Example-Skin-5.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Example-Skin-5-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-gradient-bitmap-test",
@@ -189,7 +199,7 @@
       "description": "JukeCab skin: zzz-Gradient-Bitmap-Test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Gradient-Bitmap-Test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Gradient-Bitmap-Test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-gradient-text-fill-test",
@@ -199,7 +209,7 @@
       "description": "JukeCab skin: zzz-Gradient-Text-Fill-Test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Gradient-Text-Fill-Test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Gradient-Text-Fill-Test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-gradient-width-height-offset",
@@ -209,7 +219,27 @@
       "description": "JukeCab skin: zzz-gradient-width-height-offset.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-gradient-width-height-offset.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-gradient-width-height-offset-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
+    },
+    {
+      "id": "zzz-group-visual-test",
+      "name": "zzz-group-visual-test",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: zzz-group-visual-test.",
+      "preview": "",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-group-visual-test-1.0.0.zip",
+      "minimumJukeCabVersion": "0.6.3.3"
+    },
+    {
+      "id": "zzz-hover-test",
+      "name": "zzz-hover-test",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: zzz-hover-test.",
+      "preview": "",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-hover-test-1.0.0.zip",
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-jukecab-feature-test",
@@ -219,7 +249,7 @@
       "description": "JukeCab skin: zzz-JukeCab Feature Test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-JukeCab-Feature-Test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-JukeCab-Feature-Test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-jukecab-tonearm-feature-test",
@@ -229,7 +259,7 @@
       "description": "JukeCab skin: zzz-JukeCab Tonearm Feature Test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-JukeCab-Tonearm-Feature-Test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-JukeCab-Tonearm-Feature-Test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-master-perspective-test",
@@ -239,7 +269,7 @@
       "description": "JukeCab skin: zzz-master-perspective-test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-master-perspective-test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-master-perspective-test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-mirrorflip-spin-randomgroup",
@@ -249,7 +279,7 @@
       "description": "JukeCab skin: zzz-mirrorflip-spin-randomgroup.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-mirrorflip-spin-randomgroup.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-mirrorflip-spin-randomgroup-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-perspective-pivot-tests",
@@ -259,7 +289,7 @@
       "description": "JukeCab skin: zzz-perspective-pivot-tests.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-perspective-pivot-tests.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-perspective-pivot-tests-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     },
     {
       "id": "zzz-perspective-test",
@@ -269,7 +299,7 @@
       "description": "JukeCab skin: zzz-Perspective-Test.",
       "preview": "https://raw.githubusercontent.com/jaythom1/JukeCab-Skins/main/previews/zzz-Perspective-Test.png",
       "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Perspective-Test-1.0.0.zip",
-      "minimumJukeCabVersion": "0.6.3.2"
+      "minimumJukeCabVersion": "0.6.3.3"
     }
   ]
 }
