@@ -112,6 +112,16 @@
       "minimumJukeCabVersion": "0.6.5.1"
     },
     {
+      "id": "zzz-utility-launch-test",
+      "name": "zzz Utility Launch Test",
+      "version": "1.0.0",
+      "author": "JukeCab",
+      "description": "JukeCab skin: zzz Utility Launch Test.",
+      "preview": "",
+      "package": "https://github.com/jaythom1/JukeCab-Skins/releases/download/skins-2026.08.08/zzz-Utility-Launch-Test-1.0.0.zip",
+      "minimumJukeCabVersion": "0.6.5.1"
+    },
+    {
       "id": "zzz-advanced-animation-test",
       "name": "zzz-advanced animation test",
       "version": "1.0.0",
